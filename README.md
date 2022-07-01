@@ -5,4 +5,4 @@ Hoje aprendemos o que é e como funciona o Prompt de Comando, VS Code, Node JS, 
 
 Esse simples "Olá Mundo", representa o inicio e tudo o que vimos e passamos nessa semana. Logo, devo dizer...
 
-Até o próximo repositório. 
+Até o próximo repositório <3
